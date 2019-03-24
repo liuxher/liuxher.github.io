@@ -228,7 +228,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: http://pjo1tv873.bkt.clouddn.com/%E7%95%99%E5%B0%8F%E8%AF%9D1.jpg
+avatar: https://ww1.sinaimg.cn/large/007rAy9hgy1g1bkb6ya8sj3035035q2r.jpg
 # Table Of Contents in the Sidebar
 toc:
   enable: true
